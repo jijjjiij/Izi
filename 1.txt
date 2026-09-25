@@ -7,4 +7,5 @@ hysteria2://2b5181f7-18e7-406e-923b-66dca6437529@188.225.78.182:7817?sni=bs17.ha
 hysteria2://2b5181f7-18e7-406e-923b-66dca6437529@31.76.101.246:443?sni=de2.hat.onl&alpn=h3#Германия ⚡️
 vless://2b5181f7-18e7-406e-923b-66dca6437529@150.241.75.198:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=lv1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44#Латвия ⚡️
 
-vless://2b5181f7-18e7-406e-923b-66dca6437529@31.76.5.21:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=no1.hat.onl&pbk=HsNJGpx6_6aZAMND-kZhk8BswTDaxmfPO8C3-huiCQA&sid=9f5c3ecd3d8d390b#Игровой 2
+hysteria2://900f158f-594b-4a96-b10b-c08ef34eebb4@poland.colavpn.space:443?sni=poland.colavpn.space&alpn=h3##Игровой 2
+vless://900f158f-594b-4a96-b10b-c08ef34eebb4@finland.colavpn.space:48615?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.yle.fi&pbk=x6C0fFuoKFh_guqPRu6-Ky9rxsacxQGysK0tu2ZMaBI&sid=acf11e92a26b2c95#FИгровой 3
