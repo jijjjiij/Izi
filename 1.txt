@@ -10,3 +10,4 @@ vless://2b5181f7-18e7-406e-923b-66dca6437529@78.159.247.121:8443?flow=xtls-rprx-
 vless://2b5181f7-18e7-406e-923b-66dca6437529@2.27.244.155:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pl2.hat.onl&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&sid=19d6296d2621d9fa#польша
 
 
+hysteria2://2b5181f7-18e7-406e-923b-66dca6437529@188.225.78.182:7816?sni=bs16.hat.onl&alpn=h3#Нидерланды
